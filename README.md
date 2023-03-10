@@ -11,7 +11,7 @@
 ### Programming Languages
 ![python icon](https://img.icons8.com/color/48/000000/python.png) Python ⭐⭐⭐⭐☆  
 ![lua icon](https://img.icons8.com/color/48/000000/lua-language.png) Lua ⭐⭐⭐☆☆  
-![html5 icon](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML 5 ✅  
+![html5 icon](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML 5 ⭐⭐⭐☆☆ 
 ![css icon](https://img.icons8.com/color/48/000000/css3.png) CSS ⭐⭐☆☆☆  
 ![javascript icon](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript ⭐⭐☆☆☆  
 
