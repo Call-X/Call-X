@@ -11,8 +11,8 @@
 ### Programming Languages
 ![python icon](https://img.icons8.com/color/48/000000/python.png) Python ⭐⭐⭐⭐☆  
 ![html5 icon](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML 5 ⭐⭐⭐☆☆ 
-![css icon](https://img.icons8.com/color/48/000000/css3.png) CSS ⭐⭐☆☆☆  
 ![javascript icon](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript ⭐⭐☆☆☆  
+![css icon](https://img.icons8.com/color/48/000000/css3.png) CSS ⭐⭐☆☆☆  
 
 
 ## Web Frameworks
