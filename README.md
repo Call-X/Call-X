@@ -21,7 +21,7 @@
 ![django icon](https://img.icons8.com/color/48/000000/django.png) Django REST framework ⭐⭐⭐⭐☆  
 ![flask icon](https://img.icons8.com/nolan/48/flask.png) Flask ⭐⭐⭐☆☆  
 
-## Tools & DB's:
+## CI/CD & DB's:
 ![docker icon](https://img.icons8.com/color/48/docker.png) Docker ⭐⭐⭐☆☆  
 ![mysql icon](https://img.icons8.com/color/48/mysql-logo.png) MySQL ⭐⭐⭐☆☆  
 ![postgresql icon](https://img.icons8.com/plasticine/48/postgreesql.png) PostgreSQL ⭐⭐⭐☆☆
