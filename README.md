@@ -5,12 +5,11 @@
 <h3 align="center">Web Developer Python - Django</h3>
 <h4 align="center">___ From designing buildings to coding ___</h4>
 <p align="center"><img src="https://media.giphy.com/media/tq5iJ4XZ9Bs2LWDVs5/giphy.gif" width="300" /></p>
-<h3 align="center"><a href="https://call-x.github.io/Resume/">___ My Resume ___</a> </h3>
+<h1 align="center"><a href="https://call-x.github.io/Resume/">___ My Resume ___</a> </h1>
 
 
 ### Programming Languages
 ![python icon](https://img.icons8.com/color/48/000000/python.png) Python ⭐⭐⭐⭐☆  
-![lua icon](https://img.icons8.com/color/48/000000/lua-language.png) Lua ⭐⭐⭐☆☆  
 ![html5 icon](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML 5 ⭐⭐⭐☆☆ 
 ![css icon](https://img.icons8.com/color/48/000000/css3.png) CSS ⭐⭐☆☆☆  
 ![javascript icon](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript ⭐⭐☆☆☆  
