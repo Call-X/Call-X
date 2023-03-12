@@ -5,7 +5,7 @@
 <h3 align="center">Web Developer Python - Django</h3>
 <h4 align="center">___ From designing buildings to coding ___</h4>
 <p align="center"><img src="https://media.giphy.com/media/tq5iJ4XZ9Bs2LWDVs5/giphy.gif" width="300" /></p>
-<h5 align="center"><a href="https://call-x.github.io/Resume/">___ My Resume ___</a> </h5>
+<h3 align="center"><a href="https://call-x.github.io/Resume/">___ My Resume ___</a> </h3>
 
 
 ### Programming Languages
